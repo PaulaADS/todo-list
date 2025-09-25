@@ -11,7 +11,7 @@ Permite adicionar, concluir e excluir tarefas de forma interativa.
 
 ## Demonstração
 
-*(imagem)
+*(imagem)*
 
 ## Tecnologias
 - HTML5
@@ -26,7 +26,7 @@ todo-list/
 |--script.js
 |--README.md
 
-##Deploy
+## Deploy
 [Clique aqui para acessar o projeto] (https://paulaads.github.io/todo-list/)
 
 ## Autor
