@@ -11,7 +11,7 @@ Permite adicionar, concluir e excluir tarefas de forma interativa.
 
 ## Demonstração
 
-*(imagem)*
+[To-Do List Screenshot](./screenshot.png)
 
 ## Tecnologias
 - HTML5
