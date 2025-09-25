@@ -31,4 +31,4 @@ todo-list/
 
 ## Autor
 Paula Renata de Oliveira
-[LinkeIn] (https://www.linkedin.com/in/paula-renata-475aa81b4/) | [GitHub] (https://github.com/PaulaADS)
+[LinkedIn] (https://www.linkedin.com/in/paula-renata-475aa81b4/) | [GitHub] (https://github.com/PaulaADS)
